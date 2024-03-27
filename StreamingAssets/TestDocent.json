@@ -1,0 +1,1734 @@
+{
+  "MileugsaHistory": {
+    "positionX": 0.0,
+    "positionY": -0.05,
+    "positionZ": 1.0,
+    "rotationX": 0.0,
+    "rotationY": 180.0,
+    "rotationZ": 0.0,
+    "scaleX": 2.5,
+    "scaleY": 2.5,
+    "scaleZ": 2.5,
+    "contents ": [
+      {
+        "dialog": "익산 미륵사에 오신걸 환영합니다. 미륵사지 정면으로 화면을 이동하시면 콘텐츠를 보실 수 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "1"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_1.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "미륵사는 7세기 백제 무왕 때 창건된 우리나라 최대 규모의 사찰로, 왕실의 안녕과 중생의 불도를 기원하며 건립된 사찰입니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_2.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "삼국유사에 따르면 무왕과 왕비가 사자사로 가던 길에 미륵 삼존이 출현하였고, 왕비가 그곳에 절을 세워 달라고 청하였다고 합니다. 무왕이 명하여 하룻밤 사이에 연못을 메우고 미륵사를 세웠다는 창건 설화가 전해집니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_3.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "다른 백제 사찰들이 일 탑 일 금당 형식인 것에 비해 미륵사는 세 개의 석탑과 금당, 승방, 강당 등이 배치된 삼 탑 삼 금당의 독특한 형식을 갖췄습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_4.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "창건 이후 다양한 변화를 거쳐 조선 중기인 16세기 후반에 폐사된 것으로 알려져 있습니다.\n\r참조 문헌 : 양곡집(선조4년), 와유록(영조14년), 금마지(영조32년)",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "5"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_5.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "지금의 미륵사지는 완전한 건축물이 없지만 다양한 건물지 유구와 함께 석탑, 당간지주 등이 남아있어 당시 뛰어난 건축기술을 엿볼 수 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "6"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_6.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "미륵사 터에 남아있는 유적의 가치를 인정받아 2015년에는다른 백제 유적들과 함께 '백제역사유적지구'로 유네스코 세계유산에 등재되었습니다. ",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "7"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_7.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "지금은 동탑, 서탑, 그리고 일부 기단들만 복원정비되어 미륵사가 번창했을 당시의 모습을 직접 확인할 수 없는 아쉬움이 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "8"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_8.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "이에 문화재청은 미륵사지에 남아있는 초석과 기단, 발굴 조사 결과와 역사적 자료, 고증연구를 토대로 먼저 미륵사 중문의 모습을 디지털로 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "9"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_9.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "앞으로도 문화재청 국립문화재연구원과 익산시는 미륵사의 중요 건물들에 대한 디지털 복원 작업을 차례로 진행할 계획입니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "10"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_history_10.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "역사 속의 미륵사를 복원하는 일은 여러 대안을 만들기도 하고, 새로운 증거가 발견되면 복원안이 변경될 수도 있습니다. 복원의 기초가 되고 있는 미륵사지 조사 과정에 대해 알아볼까요?",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_history_11.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": "MiniMapShow2"
+      }
+    ]
+  },
+  "MileugsaProcess": {
+    "positionX": 0.0,
+    "positionY": -0.03,
+    "positionZ": 0.18,
+    "rotationX": -10.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 0.3,
+    "scaleY": 0.3,
+    "scaleZ": 0.3,
+    "contents ": [
+      {
+        "dialog": "오랜 세월 동안 폐사지로 남아 있던 미륵사지에 대한 조사는 1910년에 처음 시작되었고, 미륵사지 석탑과 주변에 있는 석재 조사가 이루어졌습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "1"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_1.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "이후 1970년대 중반에 원광대학교의 마한, 백제문화연구소에서 시범적인 시굴조사를 하여 사찰의 중심 일부 지역을 확인하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_2.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "문화재관리국 문화재연구소는 1980년도부터 5개년씩 3차에 걸쳐 미륵사지의 규모와 특성을 밝히기 위한 본격적인 발굴조사를 진행했습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_3.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "1980년부터 3차에 걸친 조사를 통해 삼국유사의 기록과 일치하는 탑과 금당이 회랑으로 각각 둘러싸인 동원, 중원, 서원 3원으로 구성된 3탑 3금당의 독특한 가람배치라는 사실이 밝혀졌습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_4.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "1985년부터 5년 동안 이뤄진 2차 조사는 사찰 외곽의 북쪽과 서쪽에 대한 발굴조사를 진행하였습니다. 통일신라시대와 고려시대의 건물지, 그리고 조선시대의 건물지를 확인하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "5"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_5.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "1990년부터 5년 동안 이뤄진 3차 조사는 사찰의 남쪽 부분을 조사하여 동서로 나뉜 통일신라시대의 연못지를 확인할 수 있었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "6"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_6.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "연차 발굴 외에도 1991년에는 동탑지 기단과 하부에 대한 조사가 진행되어 동탑지의 구조를 밝힐 수 있었고, 이를 토대로 1992년에 동탑을 실물 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "7"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_7.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "한편, 미륵사지 서탑의 콘크리트 노후화와 구조적 불안정이 우려되어 1999년에는 문화재위원회 심의를 거쳐 서탑을 해체하고 수리하기로 하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "8"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_8.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "2000년에 서탑 수리를 위해 진행된 서탑 주변부에 대한 발굴조사에서는 서탑 남쪽에서 동탑지와 동일한 성격의 석축형 유구가 확인되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "9"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_9.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "이후 국립문화재연구소의 주도로 서탑 해체조사가 시작되었습니다. 2009년에 심주석을 해체하는 과정에서 방형 사리공이 발견되었고, 사리공 바닥에서 서탑 건립 당시 봉인한 사리장엄이 발견되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "10"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_10.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "사리장엄은 미륵사의 창건연대(639년)와 고대 사리장엄구에 대한 연구에 중요한 자료로 평가되고 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "11"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_11.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "서탑은 약 20여년이라는 시간에 걸쳐 콘크리트를 제거하고 석재를 하나하나 해체하였습니다. 원래의 석재를 최대한 사용하기 위한 과학적인 조사연구가 진행되어 2019년 보수정비가 완료되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "12"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_12.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "2015년부터는 강당지 남쪽, 동원 중문지, 목탑지 남쪽에 대한 발굴조사가 진행되어 미륵사지가 최소 두 차례 이상 물의 흐름에 의한 침식과 퇴적으로 변화를 겪은 것을 알 수 있었습니다. 그리고 동원 중문지의 기단 성토 과정 및 방법을 재확인하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "13"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_process_13.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "익산 미륵사지의 조사와 동탑 복원, 서탑 보수정비에 대해 알아보았습니다. 이제 중문에 대해 알아볼까요?",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_process_14.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": "MiniMapShow3"
+      }
+    ]
+  },
+  "MileugsaMiddleDoorMean": {
+    "positionX": 0.0,
+    "positionY": -0.03,
+    "positionZ": 0.2,
+    "rotationX": 20.0,
+    "rotationY": 180.0,
+    "rotationZ": 0.0,
+    "scaleX": 0.3,
+    "scaleY": 0.3,
+    "scaleZ": 0.3,
+    "contents ": [
+      {
+        "dialog": "사찰에서 중문은 내부 공간을 드나드는 주 출입구입니다. 중문은 금당과 함께 중심선상에 배치되고 좌우에는 이를 둘러싸는 건축물인 회랑으로 구성되어 영역을 구분합니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "1"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoorMean_1.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "중문(重門)은 안과 바깥 사이라는 위치에 의해붙여진 이름입니다. 한편 회랑에 의해 둘러싸인 내부, 즉 '부처의 공간'과 외부의 '세속적 공간'을 연결한다는 의미가 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoorMean_2.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "탑, 금당, 중문은 회랑을 경계로 하나의 원을 이루는 요소입니다. 미륵사지의 세 개의 중문은 탑, 금당과 함께 미륵사지의 3탑 3금당 형식, 즉 3원의 특징을 보여주는 상징적인 건물입니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoorMean_3.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "이제 미륵사지의 세 개의 중문 중에서도 중심에 있는 중원의 중문을 만나러 가볼까요?",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_MiddleDoorMean_4.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": "MiniMapShow4"
+      }
+    ]
+  },
+  "MileugsaMiddleDoorRoof1": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 25.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "미륵사가 폐사된 후 중원 중문지 위로 하천이 흘러 건축물의 가장 기초가 되는 기단 등이 80%이상 사라졌습니다. 발굴조사 결과, 기단과 관련된 것으로 보이는 일부 돌로 만든 흔적만 확인할 수 있었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.367,
+          0.7,
+          0.5,
+          2.533,
+          1.7
+        ],
+        "voice": "tts_MiddleDoor_Roof1_1.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "목탑지의 동서길이는 유적이 남아있었기 때문에 알 수 있었습니다. 목탑지와 중원 중문지에서 발견된, 돌로 만든 시설을 비교하여 중문지의 동서길이를 목탑지와 비슷할 것으로 추측하였습니다. 중원 중문지의 규모는 동원 중문지보다 크고, 중원 금당지와 동원 금당지의 건물비례와 비슷한 비율을 보이는 것으로 확인되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.5,
+          0.367,
+          2.367
+        ],
+        "voice": "tts_MiddleDoor_Roof1_2.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "국내외 사례를 참고로 하여 가로방향과 세로방향의 구조부재를 십자(十)형으로 짜여지고, 공포가 위쪽 지붕을 받치고 있는 일반적인 구조인 평공포 양식을 사용하였습니다. 네면에 모두 지붕이 있고 앞 뒤의 지붕면이 사다리꼴이고 좌우는 삼각형으로 구성된 우진각지붕을 적용하여 복원하였습니다. ",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [
+          "MiddleDoorImageAnim_Step3"
+        ],
+        "imageAnimationTime": [
+          2.0
+        ],
+        "modelAnimation": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          1.367,
+          2.033,
+          0.533
+        ],
+        "voice": "tts_MiddleDoor_Roof1_3.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문지의 기단 부재를 재사용하여 나중에 만든 것으로 추정되는 다른 건물지의 기단을 통해 중문의 기단을 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_4.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "평면의 크기와 구성에 대해 알 수 있는 유구는 전혀 남아있지 않지만, 미륵사지 건물의 기단과 평면의 관계를 비교하여 정면 5칸, 측면 2칸으로 추정하여 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_5.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "기둥을 받는 돌인 초석은 네모난 모양을 하고 있을 가능성이 크고 다른 건물에서 나온 초석의 크기를 비교하여 90~93cm로 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_6.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문 기둥의 지름은 초석에서 확인된 기둥 흔적을 통해 약 51cm로 산정하였습니다.건물에 사용되는 부재의 크기는 국외의 건축물과 관련한 규범을 참고하고 미륵사지 건물간의 위계를 고려하여 정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_7.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문은 국내외 사례와 초석 등 조사 결과를 토대로 중층 구조가 가능할 것으로 판단하였습니다. 중층 건물인 것을 전제로 시대적 배경과 당대 건축의 공포양식에 따른 두 가지 최종 설계안을 결정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_8.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "기단부터 기둥까지는 두 개의 복원안이 동일하지만, 평공포안의 우진각지붕은 지붕면 앞뒤는 사다리꼴이고, 좌우 측면은 삼각형 모양으로 지붕 좌우에 합각이 없는 형태의 지붕입니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_9.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문이 복원되었습니다.화면에서 중원 중문의 각 부재 이름을 선택해 보세요. 부재에 대한 추가 설명을 볼 수 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_1",
+          "Emphasis_2",
+          "Emphasis_3",
+          "Emphasis_4",
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_14",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_10.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": "ExamBubbleShow"
+      },
+      {
+        "dialog": "지금까지 중원 중문의 복원 과정을 살펴봤습니다. 남아있는 유구가 적은 상태에서 복원한 만큼 추가로 유물이 발견될 경우 복원안이 변경될 수 있습니다. 이제 동-서원의 중문도 보러 갈까요?",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_1",
+          "Emphasis_2",
+          "Emphasis_3",
+          "Emphasis_4",
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_14",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof1_11.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": "MiniMapShow56"
+      }
+    ]
+  },
+  "MileugsaMiddleDoorRoof2": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 25.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "미륵사가 폐사된 후 중원 중문지 위로 하천이 흘러 건축물의 가장 기초가 되는 기단 등이 80%이상 사라졌습니다. 발굴조사 결과, 기단과 관련된 것으로 보이는 일부 돌로 만든 흔적만 확인할 수 있었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.367,
+          0.7,
+          0.5,
+          2.533,
+          1.7
+        ],
+        "voice": "tts_MiddleDoor_Roof2_1.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "목탑지의 동서길이는 유적이 남아있었기 때문에 알 수 있었습니다. 목탑지와 중원 중문지에서 발견된, 돌로 만든 시설을 비교하여 중문지의 동서길이를 목탑지와 비슷할 것으로 추측하였습니다. 중원 중문지의 규모는 동원 중문지보다 크고, 중원 금당지와 동원 금당지의 건물비례와 비슷한 비율을 보이는 것으로 확인되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.5,
+          0.367,
+          2.367
+        ],
+        "voice": "tts_MiddleDoor_Roof2_2.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "경사를 가지는 하앙이라는 구조부재가 위쪽 지붕을 지지하는 하앙구조는 백제에서 많이 사용했을 것으로 추정되는 구조입니다. 하앙구조에 백제시대에 유행한 지붕형태일 것으로 추정되는 꺾임팔작지붕으로 복원하였습니다. 꺾임팔작지붕은 위쪽은 맞배지붕이고 아래쪽은 우진각 지붕이 합쳐진 것 같은 모습을 하고 있습니다.",
+        "image": [],
+        "imageTime": [
+          0.0
+        ],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          1.367,
+          2.033,
+          0.533
+        ],
+        "voice": "tts_MiddleDoor_Roof2_3.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문지의 기단 부재를 재사용하여 나중에 만든 것으로 추정되는 다른 건물지의 기단을 통해 중문의 기단을 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_4.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "평면의 크기와 구성에 대해 알 수 있는 유구는 전혀 남아있지 않지만, 미륵사지 건물의 기단과 평면의 관계를 비교하여 정면 5칸, 측면 2칸으로 추정하여 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_5.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "기둥을 받는 돌인 초석은 네모난 모양을 하고 있을 가능성이 크고 다른 건물에서 나온 초석의 크기를 비교하여 90~93cm로 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_6.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문 기둥의 지름은 초석에서 확인된 기둥 흔적을 통해 약 51cm로 산정하였습니다. 건물에 사용되는 부재의 크기는 국외의 건축물과 관련한 규범을 참고하고 미륵사지 건물간의 위계를 고려하여 정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_7.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문은 국내외 사례와 초석 등 조사 결과를 토대로 중층 구조가 가능할 것으로 판단하였습니다. 중층 건물인 것을 전제로 시대적 배경과 당대 건축의 공포양식에 따른 두 가지 최종 설계안을 결정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_8.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "기단부터 기둥까지는 두 개의 복원안이 동일하지만, 하앙구조안의 꺾인팔작지붕은 팔작지붕의 초기의 모습으로 상부의 맞배지붕과 하부의 우진각지붕을 조합해서 만든 형태입니다. 지붕 구조로 인해 단차이가 생기거나 지붕의 기울어진 정도의 차이에 따라 꺾인 부분이 드러나기도 합니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_9.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": ""
+      },
+      {
+        "dialog": "중원 중문이 복원되었습니다.화면에서 중원 중문의 각 부재 이름을 선택해 보세요. 부재에 대한 추가 설명을 볼 수 있습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_1",
+          "Emphasis_2",
+          "Emphasis_3",
+          "Emphasis_4",
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_14",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_10.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": "ExamBubbleShow"
+      },
+      {
+        "dialog": "지금까지 중원 중문의 복원 과정을 살펴봤습니다. 남아있는 유구가 적은 상태에서 복원하였기에 추가로 유물이 발견될 경우 복원안이 변경될 수 있습니다. 이제 동-서원의 중문도 보러 갈까요?",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_1",
+          "Emphasis_2",
+          "Emphasis_3",
+          "Emphasis_4",
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_8",
+          "Emphasis_9",
+          "Emphasis_10",
+          "Emphasis_11",
+          "Emphasis_12",
+          "Emphasis_13",
+          "Emphasis_14",
+          "Emphasis_15"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_MiddleDoor_Roof2_11.mp3",
+        "video": "value3",
+        "Animation": "value3",
+        "Event": "MiniMapShow56"
+      }
+    ]
+  },
+  "MileugsaEastDoor": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 25.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "동원 중문지는 1980년 발굴조사를 통해 지표아래 30cm깊이에서 북쪽에 있는 기단석 일부만 발견되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2",
+          "3",
+          "4"
+        ],
+        "modelAnimationTime": [
+          0.11,
+          0.367,
+          0.567
+        ],
+        "voice": "tts_WestDoor_1.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "서원 중문지는 유실이 매우 심하여 기단 범위조차 확인이 어려웠지만 남회랑지의 남측에 있는 석축 계단지를 통해 중문이 있었을 것으로 추정됩니다. ",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "5",
+          "6"
+        ],
+        "modelAnimationTime": [
+          2.033,
+          1.1
+        ],
+        "voice": "tts_WestDoor_2.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "2017년에는 과거 발굴조사와 추가조사를 토대로 동원 중문의 구조와 성격을 규명하는 연구를 진행하였습니다. 동원 중문지와 서원 중문지는 대칭되는 배치를 보이기 때문에 동원과 서원에 동일한 복원안을 제시하였습니다. ",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "7",
+          "8",
+          "9"
+        ],
+        "modelAnimationTime": [
+          1.2,
+          1.36,
+          0.367
+        ],
+        "voice": "tts_WestDoor_3.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "동원 중문지는 북쪽 기단일부와 초석 아래의 땅을 판 흔적이 유일한데, 기단의 대부분은 없어졌지만 서북쪽과 동북쪽 모서리 기단과 그에 이어지는 기단부재가 일부 남아있어 기단의 규모를 파악할 수 있었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0
+        ],
+        "voice": "tts_WestDoor_4.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "중문지 기단은 전면길이는 12.3m, 측면길이는 8m로 복원하고, 정면 3칸, 측면 2칸으로 판단하였습니다. 기단의 구성과 높이를 고려하여 2개의 디딤석으로 구성된 계단이 있으며, 좌우의 남회랑과 연결된 일체형 기단으로 구성되었을 것으로 추정됩니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_5.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "석탑의 주변에서 발견된 초석을 분류하여 동서원 중문의 초석을 동그란 초석으로 판단하였습니다. 다른 건물지와 비교하여 초석의 지름은 75cm, 기둥을 놓는 주좌의 지름은 45cm, 높이는 30cm로 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_6.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "기둥이 놓여있던 흔적은 남아있는 강당이나 회랑지의 초석에서 확인할 수 있는데 동-서원 중문의 기둥 지름은 회랑보다는 컸을 것으로 추정되고, 고대 사례 등을 고려하여 대략 40cm로 산정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_7.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "측면은 가운데에 높은 기둥을 두고 앞뒤로 보를 두는 고주형으로 구성하고, 책을 엎어놓은 듯한 모양의 맞배지붕으로 정하였습니다. 지붕을 받치는 공포의 방식은 일반적인 공포의 형식인 평공포를 적용하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_9"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_WestDoor_8.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "MileugsaWestDoor": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 25.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "동원 중문지는 1980년 발굴조사를 통해 지표아래 30cm깊이에서 북쪽에 있는 기단석 일부만 발견되었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "2",
+          "3",
+          "4"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.11,
+          0.367,
+          0.567
+        ],
+        "voice": "tts_WestDoor_1.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "서원 중문지는 유실이 매우 심하여 기단 범위조차 확인이 어려웠지만 남회랑지의 남측에 있는 석축 계단지를 통해 중문이 있었을 것으로 추정됩니다. ",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "5",
+          "6"
+        ],
+        "modelAnimationTime": [
+          2.033,
+          1.1
+        ],
+        "voice": "tts_WestDoor_2.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "2017년에는 과거 발굴조사와 추가조사를 토대로 동원 중문의 구조와 성격을 규명하는 연구를 진행하였습니다. 동원 중문지와 서원 중문지는 대칭되는 배치를 보이기 때문에 동원과 서원을 동일하게 복원안을 제시하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "7",
+          "8",
+          "9"
+        ],
+        "modelAnimationTime": [
+          1.2,
+          1.36,
+          0.367
+        ],
+        "voice": "tts_WestDoor_3.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "동원 중문지는 북쪽 기단일부와 초석 아래의 땅을 판 흔적이 유일한데 기단의 대부분은 없어졌지만 서북쪽과 동북쪽 모서리 기단과 그에 이어지는 기단부재가 일부 남아있어 기단의 규모를 파악할 수 있었습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0
+        ],
+        "voice": "tts_WestDoor_4.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "중문지 기단은 전면길이는 12.3m, 측면길이는 8m로 복원하고, 정면 3칸, 측면 2칸으로 판단하였습니다. 기단의 구성과 높이를 고려하여 2개의 디딤석으로 구성된 계단이 있으며, 좌우의 남회랑과 연결된 일체형 기단으로 구성되었을 것으로 추정됩니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_2"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_5.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "석탑의 주변에서 발견된 초석을 분류하여 동서원 중문의 초석을 동그란 초석으로 판단하였습니다. 다른 건물지와 비교하여 초석의 지름은 75cm, 기둥을 놓는 주좌의 지름은 45cm, 높이는 30cm로 복원하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_3"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_6.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "기둥이 놓여있던 흔적은 남아있는 강당이나 회랑지의 초석에서 확인할 수 있는데 동서원 중문의 기둥 지름은 회랑보다는 컸을 것으로 추정되고, 고대 사례 등을 고려하여 대략 40cm로 산정하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_4"
+        ],
+        "modelAnimationTime": [
+          0.0
+        ],
+        "voice": "tts_WestDoor_7.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      },
+      {
+        "dialog": "측면은 가운데에 높은 기둥을 두고 앞뒤로 보를 두는 고주형으로 구성하고, 책을 엎어놓은 듯한 모양의 맞배지붕으로 정하였습니다. 지붕을 받치는 공포의 방식은 일반적인 공포의 형식인 평공포를 적용하였습니다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [
+          "Emphasis_5",
+          "Emphasis_6",
+          "Emphasis_7",
+          "Emphasis_9"
+        ],
+        "modelAnimationTime": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voice": "tts_WestDoor_8.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "MileugsaStoneTower": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 100.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "석탑",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "",
+        "video": "",
+        "Animation": "",
+        "Event": "VideoPlayer"
+      }
+    ]
+  },
+  "Jangyu": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "도리 밑을 받치는 도리 받침 부재로 도리를 타고 내려오는 지붕의 하중을 소로를 통해 공포에 전달하는 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "Suggarae": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "도리 위에 경사지게 건너지르는 긴 부재로 지붕을 받으며 지붕을 구성하는 가장 중요한 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_Suggarae.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "GongPo": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "기둥 위에 놓여 도리를 지지하는 부재의 조합으로 지붕 하중을 합리적으로 기둥에 전달하는 역할도 하지만 목조건축의 입면 의장에도 많은 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_GongPo.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "ChangBang": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "기둥 상부에서 기둥과 기둥을 연결하는 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_ChangBang.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "HaAng": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "길게 내민 처마서까래를 지지하는 부재로 서까래와 같은 기울기를 가지고 처마도리와 중도리를 지렛대 형식으로 받고 있는 부재이다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_HaAng.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "Bo": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 0.0,
+    "scaleY": 0.0,
+    "scaleZ": 0.0,
+    "contents ": [
+      {
+        "dialog": "건물의 앞뒤 기둥을 연결하고 지붕의 하중을 지붕으로 전달해주는 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_Bo.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  },
+  "Dori": {
+    "positionX": 0.0,
+    "positionY": 0.0,
+    "positionZ": 0.0,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0,
+    "scaleZ": 1.0,
+    "contents ": [
+      {
+        "dialog": "보의 직각 방향으로 기둥과 기둥을 건너지르는 가로 부재로 서까래를 받치는 역할을 한다.",
+        "image": [],
+        "imageTime": [],
+        "imageEffect": [],
+        "imageAnimation": [],
+        "imageAnimationTime": [],
+        "modelAnimation": [],
+        "modelAnimationTime": [],
+        "voice": "tts_Sub_Dori.mp3",
+        "video": "",
+        "Animation": "",
+        "Event": ""
+      }
+    ]
+  }
+}
